@@ -1,2 +1,3 @@
 # backend
-Criação de uma aplicação backend (CRUD) utilizando fastapi e mongodb, com Docker para servir a aplicação com o mongodb.
+repositorio ''https://github.com/seu-usuario/fastapi-books-crud.git''
+
